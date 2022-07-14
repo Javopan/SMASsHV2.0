@@ -1,0 +1,4 @@
+PyQt6~=6.3.1
+pandas~=1.4.3
+openpyxl~=3.0.10
+paramiko~=2.11.0
